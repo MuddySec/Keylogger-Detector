@@ -53,19 +53,26 @@ Próximas mejoras previstas:
 
 ```bash
 pip install watchdog
+```
 
 ---
 
 ## 📁 Estructura del repositorio
 
 📁 keylogger-defender
+
  ┣ 📜 monitor.py             # Script principal (este proyecto)
- ┣ 📜 keylogger.py           # Script ofensivo educativo (del máster)
+ 
  ┣ 📄 created.txt            # Eventos de creación
+ 
  ┣ 📄 modified.txt           # Eventos de modificación
+ 
  ┣ 📄 deleted.txt            # Eventos de eliminación
+ 
  ┣ 📄 alert.txt              # Eventos considerados sospechosos
+ 
  ┣ 📄 README.md              # Este documento
+ 
  ┣ 📄 .gitignore
 
 
